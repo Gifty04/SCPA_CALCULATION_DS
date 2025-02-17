@@ -1,19 +1,19 @@
-# SCPA Calculation
+# SGPA Calculation
 
 This repository contains a Python script for calculating **SCPA (Statistical Cluster Pattern Analysis)**. The script processes input data, performs calculations, and outputs the results.
 
 ## 📌 Features
 - Handles missing data efficiently
 - Uses **pandas** and **numpy** for data processing
-- Performs SCPA calculations step-by-step
+- Performs SGPA calculations step-by-step
 - Outputs results in a structured format
 
 ## 🚀 Installation & Setup
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/scpa-calculation.git
-   cd scpa-calculation
+   git clone https://github.com/yourusername/sgpa-calculation.git
+   cd sgpa-calculation
    ```
 
 2. Install dependencies:
@@ -23,12 +23,12 @@ This repository contains a Python script for calculating **SCPA (Statistical Clu
 
 3. Run the script:
    ```bash
-   python scpa_calculation.py
+   python sgpa_calculation.py
    ```
 
 ## 📝 Usage
 
-Modify scpa_calculation.py to input your dataset and adjust parameters as needed.
+Modify sgpa_calculation.py to input your dataset and adjust parameters as needed.
 
 ## ⚠️ Troubleshooting
 
@@ -36,7 +36,7 @@ If you encounter issues while running the script, refer to the common errors bel
 
 KeyError: "['COMM'] not in index"
 The column 'COMM' may be missing from your dataset. Check the column names and update the script accordingly.
-FileNotFoundError: No such file or directory: 'data.csv'
+FileNotFoundError: No such file or directory: 'SEM.csv'
 Ensure that the dataset file (data.csv) is present in the correct directory.
 ModuleNotFoundError: No module named 'pandas'
 Run pip install pandas to install the missing dependency.
