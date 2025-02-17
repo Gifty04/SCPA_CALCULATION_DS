@@ -1,6 +1,6 @@
 # SGPA Calculation
 
-This repository contains a Python script for calculating **SCPA (Statistical Cluster Pattern Analysis)**. The script processes input data, performs calculations, and outputs the results.
+This repository contains a Python script for calculating **SGPA (Semester Grade Point Average)**. The script processes input data, performs calculations, and outputs the results.
 
 ## 📌 Features
 - Handles missing data efficiently
