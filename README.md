@@ -12,7 +12,7 @@ This repository contains a Python script for calculating **SCPA (Statistical Clu
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/sgpa-calculation.git
+   git clone https://github.com/Gifty04/SGPA_CALCULATION_DS
    cd sgpa-calculation
    ```
 
